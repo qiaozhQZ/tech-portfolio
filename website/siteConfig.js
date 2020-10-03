@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/qiao-zhang-78145a14b/',
+        linkedin: 'https://www.linkedin.com/in/qiao-zhang-78145a14b',
         twitter: '@QiaoZhang9',
         github: 'https://github.com/qiaozhQZ',
     },
